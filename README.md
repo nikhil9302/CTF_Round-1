@@ -2,7 +2,7 @@
 ## COMMIT THE 🚩 Round-1 commences
 
 Hello, hackers! This is the first round. 
-* The flag is hidden somewhere in this repository. Since this is the first Round, I can give a hint.
+* The flag is hidden somewhere in this repository. Since this is the first Round, I can give you a hint.
 * The Hint is that **the name of the event** can guide you to the place where the flag is.
 * You can either follow the hint or choose to ignore it and explore this github repo thoroughly.
 * If you know your git you can cruise through this round easily.
