@@ -8,5 +8,7 @@ Hello, hackers! This is the first round.
 * If you know your git you can cruise through this round easily.
 * When you find the flag, the format will be **commit{......}**, the content inside the flag will confirm if you found a dummy flag or the real one
 
-So put on your hacker mask and try to find the flag. After finding the flag, you will be able to advance to the next CTF round.
+So put on your hacker mask and try to find the flag. After finding the flag, first go to the submission portal to submit the flag and go on to this url for your next challenge:- https://*{content inside the curly brackets of commit flag}*.deta.dev.
+
 This is just the start! Happy Hacking!
+
